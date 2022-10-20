@@ -1,4 +1,4 @@
-#Vincent Bénet
+# Vincent Bénet
 
 ## Public accounts
 
@@ -14,9 +14,9 @@
 
 #### Square printer
 
-* Description : -
-* Start date : -
-* End date : -
+* Description : Conception of a 3D printer 500mm x 500mm x 500mm. The goal is to make a assembled structure and piloting each axis with many motors in order to calibrate the orthogonality of axis X, Y and Z. This in always WIP project. The physical assembly is done. The calibration code is in process. Then the Marlin integration has to be done. A specific electronic card derivated from RAMPS 1.4 has been created for this project by Vincent Legouis.
+* Start date : 09 / 2020
+* End date : WIP
 * Source : https://gitlab.com/vincentBenet/square_printer
 * Documentation : -
 * Releases : -
@@ -25,11 +25,11 @@
 
 #### Global linter
 
-* Description : -
-* Start date : -
-* End date : -
+* Description : A linter that can handle any languages as long as the lint rules are configured. The project is made for The-programmer platform to check that all products scripts respects a coding standard. The language used is SQF.
+* Start date : 2021
+* End date : 2022
 * Source : https://gitlab.com/vincentBenet/global_linter
-* Documentation : -
+* Documentation : [![Documentation]([https://gitpod.io/button/open-in-gitpod.svg](https://img.shields.io/badge/Documentation-Global%20linter-blue))]([https://gitpod.io/#https://github.com/badges/shields](https://vincentbenet.gitlab.io/global_linter/))
 * Releases : -
 * Build : -
 * Coverage : -
