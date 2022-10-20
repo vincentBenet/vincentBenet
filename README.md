@@ -57,6 +57,36 @@
 * Build : -
 * Coverage : -
 
+#### Structcheck
+
+* Description : An open-source tool to check directories and folders structures based on regex analysis. 
+Generate a report. Usefull for companies that needs to check the correct names of folders and files of datas.
+You can include it inside a KRON to check every day the integrity of datas.
+
+* Start date : 09 / 2022
+* End date : 10 / 2022
+* Source : https://github.com/vincentBenet/structcheck
+* Pypi : https://pypi.org/project/structcheck/
+* Documentation : -
+* Releases : -
+* Build : -
+* Coverage : -
+
+#### Password
+
+* Description : Store passwords locally in the computer with simple encrypting python single script.
+No web interraction. For high security only (not for daily use...). Full console interraction (run on server without user interface).
+Great to store the acces for high priority server. All passwords are encrypted inside a sqlite3 database file. Encryption use 300 000 layers (more than a second to decrypt one password with decrypt key! Because the script in small and simple, user can check that there is no backdoors inside with source code openning (~ 300 lines).
+
+* Start date : 09 / 2022
+* End date : 10 / 2022
+* Source : https://github.com/vincentBenet/password
+* Pypi : https://pypi.org/project/password/
+* Documentation : -
+* Releases : -
+* Build : -
+* Coverage : -
+
 #### Pyxel
 
 * Description : -
