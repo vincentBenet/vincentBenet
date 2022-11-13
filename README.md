@@ -221,55 +221,37 @@ Light, Sound, Alarm ...
 
 #### Drone Pilot
 
-* Description : -
-* Organism : -
-* Start date : -
-* End date : -
+* Description : Drone pilot certificate for piloting drones in Europe.
+* Organism : DroneVolt
+* Date : 09/2021
 
 #### Electrical Habilitation
 
-* Description : -
-* Organism : -
-* Start date : -
-* End date : -
-* Document : -
+* Description : Low voltage (<1000V) certification for testing in safe conditions.
+* Organism : Aftral
+* Date : 11/2020
 
 #### Mechatronics Specialisation
 
-* Description : -
-* Organism : -
-* Start date : -
-* End date : -
-* Document : -
+* Description : Specialization of engineer in Mechatronics systems.
+* Location : Lille Arts-et-Métiers
+* Organism : Arts-et-Métiers ParisTech
+* Start date : September 2019
+* End date : January 2020
 
 #### General Engineering
 
-* Description : -
-* Organism : -
-* Start date : -
-* End date : -
-* Document : -
+* Description : General engineering school oriented in industry.
+* Location : Aix-en-Provence Arts-et-Métiers
+* Organism : Arts-et-Métiers ParisTech
+* Start date : 09/2017
+* End date : 09/2019
 
-#### Preparatory class
+#### Preparation of school integration
 
-* Description : -
-* Organism : -
-* Start date : -
-* End date : -
-* Document : -
+* Description : Physic Technical and Engineering Sciences. 
+* Organism : Jean Perrin
+* Location : Marseille Jean-Perrin
+* Start date : 09/2014
+* End date : 09/2017
 
-#### High school
-
-* Description : -
-* Organism : -
-* Start date : -
-* End date : -
-* Document : -
-
-#### middle School
-
-* Description : -
-* Organism : -
-* Start date : -
-* End date : -
-* Document : -
