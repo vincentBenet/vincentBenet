@@ -2,13 +2,13 @@
 
 ## Public accounts
 
-* Pypi : https://pypi.org/user/Vincentimetr/
-* Github : https://github.com/vincentBenet
-* GitLab : https://gitlab.com/vincentBenet
 * LinkedIn : https://www.linkedin.com/in/vincent-b%C3%A9net/
-* StackOverFlow : https://stackoverflow.com/users/11724014/vincent-b%c3%a9net
-* RootMe : https://www.root-me.org/Vincentimetr-559144
-* The-Programmer : https://www.the-programmer.com/vendor/vincent-imetre/
+* Pypi : https://pypi.org/user/Vincentimetr/ (3 packages)
+* Github : https://github.com/vincentBenet (16 repository)
+* GitLab : https://gitlab.com/vincentBenet (10 personnal projects)
+* The-Programmer : https://www.the-programmer.com/vendor/vincent-imetre/ (4 products)
+* StackOverFlow : https://stackoverflow.com/users/11724014/vincent-b%c3%a9net (1,173 points)
+* RootMe : https://www.root-me.org/Vincentimetr-559144 (80 points)
 
 ## Personal projects
 
