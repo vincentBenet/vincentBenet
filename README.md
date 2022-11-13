@@ -178,44 +178,29 @@ Light, Sound, Alarm ...
 
 #### Sensor Bar V2
 
-* Description : Payload if carbon fiber co-designed with external company ACS. 
-* Start date : -
-* End date : -
+* Description : Drone payload for magnetic measures in carbon fiber co-designed with external company ACS. 
+* Start date : 02/2020
+* End date : 09/2020
 * Wingspan : 80 cm
 * Weight : 5.2 kg
 
 #### Sensor Bar V3
 
-* Description : -
-* Start date : -
-* End date : -
-* Source : 
-* Documentation : -
-* Releases : -
-* Build : -
-* Coverage : -
+* Description :  Drone payload for magnetic measures in carbon tubes and 3D-printed parts only. Double the size for the size weight compare to version 2.
+* Start date : 04/2020
+* End date : 09/2020
+* Wingspan : 160 cm
+* Weight : 5.2 kg
 
 #### Sensor Bar V4
 
-* Description : -
-* Start date : -
-* End date : -
-* Source : 
-* Documentation : -
-* Releases : -
-* Build : -
-* Coverage : -
+* Description : Drone payload for magnetic measures in carbon fiber co-designed with external company ACS. Modular concept to add or remove parts. Folding arms to reduce storage volume and much lighter than version 3 for same size.
+* Start date : 05/2021
+* End date : 11/2022
 
 #### Sensor Bar V4 - Trolley
 
-* Description : -
-* Start date : -
-* End date : -
-* Source : 
-* Documentation : -
-* Releases : -
-* Build : -
-* Coverage : -
+* Description : Attach of the Sensor Bar V4 on a trolley designed with external company ACS.
 
 ## Formations
 
