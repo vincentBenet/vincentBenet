@@ -25,7 +25,7 @@
 * Start date : 2021
 * End date : 2022
 * Source : https://gitlab.com/vincentBenet/global_linter
-* Documentation : https://gitpod.io/#https://github.com/badges/shields](https://vincentbenet.gitlab.io/global_linter/
+* Documentation : https://github.com/badges/shields](https://vincentbenet.gitlab.io/global_linter/
 
 #### Casing
 
